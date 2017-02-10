@@ -1,0 +1,18 @@
+body {
+  background-color: darkblue;
+  background-image: url("http://cdn.traileraddict.com/content/20th-century-fox/independence-day-resurgence.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+h1 {
+  color: silver;
+  font-family: "sans-serif", Arial, Verdana;
+}
+h2 {
+  color: orange;
+  font-family: "sans-serif", Arial, Verdana;
+}
+p {
+  color: yellow;
+  font-family: "sans-serif", Arial, Verdana;
+}
